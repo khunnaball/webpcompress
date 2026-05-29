@@ -1,0 +1,26 @@
+# Binaries
+webpcompress
+webpcompress.exe
+webpcompress-darwin-arm64
+webpcompress-darwin-amd64
+webpcompress-linux-amd64
+ 
+# Go build cache
+*.o
+*.a
+*.so
+ 
+# Test output
+*.test
+*.out
+ 
+# Dependency directories
+vendor/
+ 
+# Go workspace file
+go.work
+go.work.sum
+ 
+# Output directory (created at runtime)
+output/
+ 
