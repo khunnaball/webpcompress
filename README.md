@@ -1,6 +1,6 @@
 # webpcompress
 
-A fast, simple CLI tool for converting and compressing images to WebP format using Google's `cwebp` encoder.
+A fast, simple CLI tool written in Go for converting and compressing images to WebP format using Google's `cwebp` encoder.
 
 ## Prerequisites
 
